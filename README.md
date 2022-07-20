@@ -1,2 +1,2 @@
 # tessdata
-translate english, arabic, and malay
+using for recognition 
